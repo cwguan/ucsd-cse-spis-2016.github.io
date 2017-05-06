@@ -10,5 +10,7 @@ link_topic_desc_only: true
 
 # Depth for week 2
 
+[Lecture Slides](https://drive.google.com/drive/folders/0B__7284Jee0fR2FQbTFuVFRkOGc?usp=sharing)
+
 
 
