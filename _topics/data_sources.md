@@ -19,6 +19,7 @@ Here is an overview, followed by more specific information about each one.
 * Nate Silver's Election analysis and more: [http://fivethirtyeight.com/](http://fivethirtyeight.com/)
 * JavaScript Library for Data Manipulation: [https://d3js.org](https://d3js.org)
 
+* JSON APIs that don't require authentication: <https://shkspr.mobi/blog/2016/05/easy-apis-without-authentication/>
 
 # Working with Reddit Data
 
