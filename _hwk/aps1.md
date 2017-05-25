@@ -21,4 +21,4 @@ Then, in your Week1.md file, please write a solution to these problems:
 
 You may find it helpful to refer to these notes from the [APS lecture on Divide and Conquer](aps_dc_lecture.pdf).
 
-See also: [Main SPIS 2016 APS Page](https://sites.google.com/a/eng.ucsd.edu/spis/home/AcademicProgram/2016_aps)
+See also: [Main SPIS 2016 APS Page](https://sites.google.com/a/eng.ucsd.edu/spis/home/2016_academicprogram/2016_aps)
